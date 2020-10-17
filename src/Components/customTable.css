@@ -1,0 +1,20 @@
+table{
+    border-radius: 15px;
+    margin-top: 10%;
+    margin-left: 15%;
+    border: 1px solid black;
+    padding: 10px;
+}
+tr{
+    background-color: #f8f8f8;
+    border: 1px solid black;
+}
+td{
+    border: 1px solid black;
+}
+th{
+    border: 1px solid black;
+}
+tr:nth-child(even){
+    background-color:#c0c0c0;
+}
